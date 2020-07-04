@@ -102,3 +102,6 @@ tests/title
 tests/triangle-vulkan
 tests/windows
 
+#Eternal specific
+bin
+bin-int
